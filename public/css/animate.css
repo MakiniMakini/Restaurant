@@ -517,7 +517,7 @@
 }
 
 .bounceOutLeft {
-  animation-name: bounceOutLeft;
+  animation-name: bounceOutLeft;   
 }
 
 @keyframes bounceOutRight {
