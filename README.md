@@ -1,11 +1,9 @@
 # base-restaurant
 
-This is a basic restaurant website. Imaginary Name: Marini
-This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co . 
-
-## Technologies used
-*Gulp.js 
-*Javascript
+This is a basic restaurant website. Imaginary Name: Marini. 
+```
+This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co 
+```
 
 # Project Title
 
@@ -71,6 +69,9 @@ run ; turbo deploy on terminal
 ## Versioning
 
 v-0.1.0
+
+## Known Bugs
+The landing video, does not play on Chrome. Fix coming soon!
 
 ## Authors
 
