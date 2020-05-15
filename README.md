@@ -1,6 +1,6 @@
 # base-restaurant
 
-This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
+This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co . This is a basic restaurant. Imaginary Name: Marini
 
 ## Instructions
 After cloning into repo, cd to project root directory and install dependencies:
@@ -26,3 +26,6 @@ To build for production, run build:
 ```
 $ npm run build
 ```
+## Technologies used
+*Gulp.js 
+*Javascript
